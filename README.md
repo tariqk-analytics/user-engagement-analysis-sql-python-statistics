@@ -14,7 +14,6 @@ _Analyzing user engagement patterns across reviews, tips, and check-ins to under
 - <a href="#data-cleaning--preparation">Data Cleaning & Preparation</a>
 - <a href="#exploratory-data-analysis-eda">Exploratory Data Analysis (EDA)</a>
 - <a href="#research-questions--key-findings">Research Questions & Key Findings</a>
-- <a href="#dashboard">Dashboard</a>
 - <a href="#how-to-run-this-project">How to Run This Project</a>
 - <a href="#final-recommendations">Final Recommendations</a>
 - <a href="#author--contact">Author & Contact</a>
@@ -113,36 +112,16 @@ vendor-performance-analysis/
 
 
 ---
-<h2><a class="anchor" id="dashboard"></a>Dashboard</h2>
 
-- Power BI Dashboard shows:
-  - Vendor-wise Sales and Margins
-  - Inventory Turnover
-  - Bulk Purchase Savings
-  - Performance Heatmaps
-
-![Vendor Performance Dashboard](images/dashboard.png)
-
----
 <h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/vendor-performance-analysis.git
+git clone https://github.com/tariqk-analytics/user-engagement-analysis-sql-python-statistics.git
 ```
-2. Load the CSVs and ingest into database:
-```bash
-python scripts/ingestion_db.py
-```
-3. Create vendor summary table:
-```bash
-python scripts/get_vendor_summary.py
-```
-4. Open and run notebooks:
-   - `notebooks/exploratory_data_analysis.ipynb`
-   - `notebooks/vendor_performance_analysis.ipynb`
-5. Open Power BI Dashboard:
-   - `dashboard/vendor_performance_dashboard.pbix`
+2. Download the JSONs and ingest into database:
+3. Open and run notebooks:
+   - `notebooks/user_engagement_analysis.ipynb`
 
 ---
 <h2><a class="anchor" id="final-recommendations"></a>Final Recommendations</h2>
