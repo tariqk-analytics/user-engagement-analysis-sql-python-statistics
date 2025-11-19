@@ -1,5 +1,5 @@
 
-# 🧾 Vendor Performance Analysis – Retail Inventory & Sales
+# 🧾 Vendor Performance Analysis
 
 _Analyzing vendor efficiency and profitability to support strategic purchasing and inventory decisions using SQL, Python, and Power BI._
 
