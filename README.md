@@ -63,19 +63,13 @@ vendor-performance-analysis/
 │
 ├── README.md
 ├── .gitignore
-├── requirements.txt
-├── Vendor Performance Report.pdf
+├── User Engagement Report.pdf
 │
 ├── notebooks/                  # Jupyter notebooks
-│   ├── exploratory_data_analysis.ipynb
-│   ├── vendor_performance_analysis.ipynb
+│   ├── user_engagement_analysis.ipynb
 │
-├── scripts/                    # Python scripts for ingestion and processing
-│   ├── ingestion_db.py
-│   └── get_vendor_summary.py
-│
-├── dashboard/                  # Power BI dashboard file
-│   └── vendor_performance_dashboard.pbix
+├── data/                  # Yelp dataset
+│   └── data_url.txt
 ```
 
 ---
