@@ -104,19 +104,6 @@ vendor-performance-analysis/
 ---
 <h2><a class="anchor" id="research-questions--key-findings"></a>Research Questions & Key Findings</h2>
 
-1. **Brands for Promotions**: 198 brands with low sales but high profit margins
-2. **Top Vendors**: Top 10 vendors = 65.69% of purchases → risk of over-reliance
-3. **Bulk Purchasing Impact**: 72% cost savings per unit in large orders
-4. **Inventory Turnover**: $2.71M worth of unsold inventory
-5. **Vendor Profitability**:
-   - High Vendors: Mean Margin = 31.17%
-   - Low Vendors: Mean Margin = 41.55%
-6. **Hypothesis Testing**: Statistically significant difference in profit margins → distinct vendor strategies
-
-
-
-
-
 1. **Engagement vs Ratings**: Higher review, tip, and check-in activity is strongly associated with higher restaurant ratings (3.5–4.5 stars).
 2. **Engagement Saturation**: Restaurants with a perfect 5.0 rating show a drop in engagement, indicating selective customers or low review motivation.
 3. **Elite User Impact**: Elite users contribute a disproportionately high share of total reviews, boosting visibility and credibility for top restaurants.
