@@ -64,7 +64,7 @@ vendor-performance-analysis/
 ├── .gitignore
 ├── User Engagement Report.pdf
 │
-├── notebooks/                  # Jupyter notebooks
+├── notebooks/             # Jupyter notebooks
 │   ├── user_engagement_analysis.ipynb
 │
 ├── data/                  # Yelp dataset
