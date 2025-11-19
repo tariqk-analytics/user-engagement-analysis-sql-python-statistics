@@ -113,6 +113,18 @@ vendor-performance-analysis/
    - Low Vendors: Mean Margin = 41.55%
 6. **Hypothesis Testing**: Statistically significant difference in profit margins → distinct vendor strategies
 
+
+
+
+
+1. **Engagement vs Ratings**: Higher review, tip, and check-in activity is strongly associated with higher restaurant ratings (3.5–4.5 stars).
+2. **Engagement Saturation**: Restaurants with a perfect 5.0 rating show a drop in engagement, indicating selective customers or low review motivation.
+3. **Elite User Impact**: Elite users contribute a disproportionately high share of total reviews, boosting visibility and credibility for top restaurants.
+4. **Sentiment Influence**: Higher counts of useful / funny / cool reactions correlate with better average ratings, suggesting positive sentiment drives trust.
+5. **Interlinked Engagement Metrics**: Reviews, check-ins, and tips exhibit strong positive correlations — activity in one metric usually predicts high activity in others.
+6. **Time-Based Trends**: User engagement peaks between 4 pm – 1 am, confirming evening/night dining as the primary driver of interaction.
+
+
 ---
 <h2><a class="anchor" id="dashboard"></a>Dashboard</h2>
 
