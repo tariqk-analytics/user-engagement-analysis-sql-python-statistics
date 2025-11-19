@@ -22,7 +22,7 @@ _Analyzing user engagement patterns across reviews, tips, and check-ins to under
 ---
 <h2><a class="anchor" id="overview"></a>Overview</h2>
 
-This project evaluates vendor performance and retail inventory dynamics to drive strategic insights for purchasing, pricing, and inventory optimization. A complete data pipeline was built using SQL for ETL, Python for analysis and hypothesis testing, and Power BI for visualization.
+This project investigates how reviews, check-ins, tips, sentiment scores, and elite user activity influence restaurant performance. A complete analytical workflow was built using SQL for data extraction and processing, and Python for correlation analysis, sentiment evaluation, statistical analysis, trend evaluation and behavioral insights.
 
 ---
 <h2><a class="anchor" id="business-problem"></a>Business Problem</h2>
