@@ -27,12 +27,14 @@ This project investigates how reviews, check-ins, tips, sentiment scores, and el
 ---
 <h2><a class="anchor" id="business-problem"></a>Business Problem</h2>
 
-Effective inventory and sales management are critical in the retail sector. This project aims to:
-- Identify underperforming brands needing pricing or promotional adjustments
-- Determine vendor contributions to sales and profits
-- Analyze the cost-benefit of bulk purchasing
-- Investigate inventory turnover inefficiencies
-- Statistically validate differences in vendor profitability
+The restaurant industry is highly competitive, and business success depends heavily on how effectively a restaurant attracts and engages its customers. This project aims to:
+- Understand how user engagement (reviews, tips, check-ins) influences key success metrics like review count and average rating
+- Identify whether higher engagement actually translates into better business visibility and customer trust
+- Analyze differences in engagement patterns between high-rated and low-rated restaurants
+- Examine how engagement trends vary across cities, seasons, and time periods
+- Evaluate the behavioral impact of elite users and sentiment-driven interactions
+- Determine which engagement factors contribute most to sustained restaurant performance
+
 
 ---
 <h2><a class="anchor" id="dataset"></a>Dataset</h2>
