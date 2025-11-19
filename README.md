@@ -127,11 +127,13 @@ git clone https://github.com/tariqk-analytics/user-engagement-analysis-sql-pytho
 ---
 <h2><a class="anchor" id="final-recommendations"></a>Final Recommendations</h2>
 
-- Diversify vendor base to reduce risk
-- Optimize bulk order strategies
-- Reprice slow-moving, high-margin brands
-- Clear unsold inventory strategically
-- Improve marketing for underperforming vendors
+- Prioritize high-engagement restaurants (4.0–4.5★ range)
+- Engage elite users to boost visibility and review volume
+- Strengthen review, tip, and check-in activity together for higher reach
+- Improve service quality for low-rated restaurants (<3.5★)
+- Use peak hours (4 PM – 1 AM) for targeted promotions
+- Focus marketing efforts on top-performing cities (Philadelphia, Tampa, Indianapolis, Tucson)
+- Encourage “useful/funny/cool” style reviews to improve sentiment and ratings
 
 ---
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
