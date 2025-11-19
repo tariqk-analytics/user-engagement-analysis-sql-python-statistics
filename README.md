@@ -39,8 +39,13 @@ The restaurant industry is highly competitive, and business success depends heav
 ---
 <h2><a class="anchor" id="dataset"></a>Dataset</h2>
 
-- Multiple CSV files located in `/data/` folder (sales, vendors, inventory) in zip format
-- Summary table created from ingested data and used for analysis
+- The dataset used in this project is stored in the data/ folder. The original Yelp Open Dataset can be downloaded from:
+
+```bash
+https://business.yelp.com/data/resources/open-dataset/
+```
+
+It includes five JSON files — business, review, user, tip, and checkin — which together form the complete dataset used for this analysis.
 
 ---
 
