@@ -121,7 +121,7 @@ git clone https://github.com/tariqk-analytics/user-engagement-analysis-sql-pytho
 ```
 2. Download the JSONs and ingest into database:
 
-3. Open and run notebooks:
+3. Open and run notebook:
    - `notebooks/user_engagement_analysis.ipynb`
 
 ---
