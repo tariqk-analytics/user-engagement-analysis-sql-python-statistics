@@ -44,8 +44,7 @@ The restaurant industry is highly competitive, and business success depends heav
 ```bash
 https://business.yelp.com/data/resources/open-dataset/
 ```
-
-It includes five JSON files — business, review, user, tip, and checkin — which together form the complete dataset used for this analysis.
+- It includes five JSON files — business, review, user, tip, and checkin — which together form the complete dataset used for this analysis.
 
 ---
 
