@@ -75,11 +75,9 @@ vendor-performance-analysis/
 ---
 <h2><a class="anchor" id="data-cleaning--preparation"></a>Data Cleaning & Preparation</h2>
 
-- Removed transactions with:
-  - Gross Profit ≤ 0
-  - Profit Margin ≤ 0
-  - Sales Quantity = 0
-- Created summary tables with vendor-level metrics
+- Filtered the dataset to include only open restaurant businesses, reducing the scope from ~150k total businesses to 35k valid restaurant entries.
+- Extracted relevant business_ids where categories contained “restaurant” and is_open = 1
+- Created derived fields such as success metrics, engagement totals, and rating-based classification to support further analysis.
 - Converted data types, handled outliers, merged lookup tables
 
 ---
