@@ -120,6 +120,7 @@ vendor-performance-analysis/
 git clone https://github.com/tariqk-analytics/user-engagement-analysis-sql-python-statistics.git
 ```
 2. Download the JSONs and ingest into database:
+
 3. Open and run notebooks:
    - `notebooks/user_engagement_analysis.ipynb`
 
