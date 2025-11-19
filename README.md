@@ -51,8 +51,8 @@ https://business.yelp.com/data/resources/open-dataset/
 <h2><a class="anchor" id="tools--technologies"></a>Tools & Technologies</h2>
 
 - SQL (Common Table Expressions, Joins, Filtering)
-- Python (Pandas, Matplotlib, Seaborn, SciPy)
-- Power BI (Interactive Visualizations)
+- Python (Pandas, Matplotlib, Seaborn)
+- Statistics
 - GitHub
 
 ---
