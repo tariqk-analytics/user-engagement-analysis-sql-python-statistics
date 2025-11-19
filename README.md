@@ -122,7 +122,7 @@ git clone https://github.com/tariqk-analytics/user-engagement-analysis-sql-pytho
 2. Download the JSONs and ingest into database:
 
 3. Open and run notebook:
-   - `notebooks/user_engagement_analysis.ipynb`
+   - `notebook/user_engagement_analysis.ipynb`
 
 ---
 <h2><a class="anchor" id="final-recommendations"></a>Final Recommendations</h2>
