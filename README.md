@@ -85,18 +85,21 @@ vendor-performance-analysis/
 <h2><a class="anchor" id="exploratory-data-analysis-eda"></a>Exploratory Data Analysis (EDA)</h2>
 
 **Negative or Zero Values Detected:**
-- Gross Profit: Min -52,002.78 (loss-making sales)
-- Profit Margin: Min -∞ (sales at zero or below cost)
-- Unsold Inventory: Indicating slow-moving stock
+- Review Count: Minimum = 0 (restaurants with zero engagement)
+- Check-ins: Minimum = 0 (no physical footfall recorded)
+- Tip Count: Minimum = 0 (no user interaction beyond reviews)
+- Rating Values: Minimum = 1.0 (valid Yelp lower rating limit, no invalid negatives)
 
 **Outliers Identified:**
-- High Freight Costs (up to 257K)
-- Large Purchase/Actual Prices
+   - High Review Counts: Certain highly popular restaurants show extremely high review activity, indicating viral or long-standing businesses
+   - Large Check-in Spikes: A few locations exhibit unusually high check-in volumes, suggesting nightlife hubs or peak-event venues
+   - Elite User Interactions: Elite users generate disproportionately higher engagement, skewing interaction metrics for some restaurants
 
 **Correlation Analysis:**
-- Weak between Purchase Price & Profit
-- Strong between Purchase Qty & Sales Qty (0.999)
-- Negative between Profit Margin & Sales Price (-0.179)
+   - Positive correlation between review count and check-ins
+   - Positive correlation between review count and tip count
+   - Higher-rated restaurants (4.0+) show higher engagement, validating the hypothesis
+   - Elite user activity strongly linked to higher review count and restaurant visibility
 
 ---
 <h2><a class="anchor" id="research-questions--key-findings"></a>Research Questions & Key Findings</h2>
