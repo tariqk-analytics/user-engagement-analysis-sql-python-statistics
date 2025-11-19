@@ -75,9 +75,10 @@ vendor-performance-analysis/
 ---
 <h2><a class="anchor" id="data-cleaning--preparation"></a>Data Cleaning & Preparation</h2>
 
-- Filtered the dataset to include only open restaurant businesses, reducing the scope from ~150k total businesses to 35k valid restaurant entries.
-- Extracted relevant business_ids where categories contained “restaurant” and is_open = 1
-- Created derived fields such as success metrics, engagement totals, and rating-based classification to support further analysis.
+- Filtered the dataset with conditions:
+   - Categories containing “restaurant”
+   - is_open = 1
+- Merged datasets using business_id to create a unified engagement view (reviews, check-ins, tips, and ratings).
 - Converted data types, handled outliers, merged lookup tables
 
 ---
