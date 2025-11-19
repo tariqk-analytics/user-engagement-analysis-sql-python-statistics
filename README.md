@@ -1,5 +1,5 @@
 
-# 🧾 Vendor Performance Analysis
+# 🧾 User Engagement Analysis
 
 _Analyzing user engagement patterns across reviews, tips, and check-ins to understand restaurant success drivers and unlock insights for improving visibility, ratings, and customer interaction using SQL, Python & Statistics._
 
